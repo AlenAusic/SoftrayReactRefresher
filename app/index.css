@@ -16,7 +16,7 @@ li {
   list-style-type: none;
 }
 
-container {
+.container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 50px;
@@ -30,7 +30,7 @@ container {
 
 .btn-clear {
   border: none;
-   background: transparent;
+  background: transparent;
 }
 
 .nav-link {
